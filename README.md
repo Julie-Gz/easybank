@@ -6,8 +6,8 @@ easybank landing page
 
 
 ### Links
-- Solution URL: (https://julie-gz.github.io/easybank/)
-- Live Site URL:
+- Solution URL: https://github.com/Julie-Gz/easybank.git
+- Live Site URL: https://julie-gz.github.io/easybank/
 
 ### My process
 I started with a mobile approach. 
